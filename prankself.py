@@ -14,12 +14,12 @@ cl.loginResult()
 
 
 
-print "SELFBOT PRANKBOTS\nSUCCES LOGIN\nSELAMAT MENGGUNAKANYA KAWAN"
+print "SELFBOT DEKILBOTS\nSUCCES LOGIN\nSELAMAT MENGGUNAKANYA KAWAN"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-          『B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́』
+helpMessage="""(DEKIL UWAY)
+        
   ✰ Me
   ✰ Add
   ✰ Cn "text"
@@ -103,13 +103,13 @@ helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́�
   ✰ Share:on/off
   ✰ Com:on/off
   ✰ Clock:on/off
-    (╣S̰֮֮Ḛ֮֮T̰֮֮T̰֮֮Ḭ֮֮N̰֮֮G̰֮֮ ֮G̰֮֮R̰֮֮O̰֮֮Ṵ֮֮P̰֮֮S̰֮֮╣)
+    (SET KIL)
   ★ Pro:on/off
   ★ Prolink:on/off
   ★ Proinvite:on/off
   ★ Procancel:on/off
-     『B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́』
-(╚••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╝)
+     『KILL BOT DEKIL
+(DEKIL BOT UWAY)
 """
 helo="""SILAHKAN GUNAKAN BOT NYA .JIKA KAMU MAU TAMBAHIN ATAU EDIT LAGI SCRIPT NYA SILAHKN
 TAPI TOLONG HARGAI SAYA UNTUK TIDAK MERUBAH LEBEL PRANKBOTS DAN AUTO ADD ATAU AUTO LIKE TERIMAKASIH :D"""
@@ -132,29 +132,16 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':""" 💥🔥【тнanĸѕ ғor add мe】🔥💥
-                              😎
-                         🖕🏻👕👊🏻
-                              👖
-                              👢
+    'message':""" 【тнanĸѕ ғor add мe】
+                              
+
+          
+      
           💥🔥AUTO ADD FRIEND🔥💥
 
-  ❂•••••••SPONSOR•••••••❂
-         https://line.me/R/ti/p/%40iya4481p
-   ☆★☆★☆★☆★☆★☆★☆
-        http://line.me/ti/p/~@sml1492z
+  
+ ❂•••••••OPEN GRUP 18+•••••••❂
 
- ❂•••••••COSTUMER•••••••❂
-         http://line.me/ti/p/~@gnh2780p
-""",
-    "lang":"JP",
-    "comment1":"""{AUTO LIKE BY}
-         https://line.me/R/ti/p/%40iya4481p
-   ☆★☆★☆★☆★☆★☆★☆
-        http://line.me/ti/p/~@sml1492z
-
- ❂•••••••COSTUMER•••••••❂
-         http://line.me/ti/p/~@gnh2780p
 """,
     "commentOn":False,
     "likeOn":True,
